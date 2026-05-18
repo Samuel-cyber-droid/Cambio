@@ -82,13 +82,38 @@ gantt
     Cierre y Transferencia a Soporte   :milestone, m3, after d1, 0d
 ```
 ## 6. Matriz de Ejecución y Hitos Críticos
-Fase TemporalHito Crítico (Milestone)Entregables y Acciones ClaveResponsable PrincipalFase 1: Preparación🎯 Kick-off Directivo• Definición de metas de negocio y KPIs de adopción.• Identificación y reclutamiento de Champions (Líderes de opinión).• Campaña de comunicación interna.Alta Dirección / Project ManagerFase 2: Capacitación🎮 Apertura de Sandbox• Distribución de infografías y materiales interactivos ágiles.• Capacitación especializada al equipo de Superusuarios.• Talleres prácticos y simulacros en ambiente seguro.Líder de TI / Recursos HumanosFase 3: Transición🚀 Lanzamiento (Go-Live)• Despliegue técnico definitivo a producción.• Despliegue de soporte técnico y humano en piso (Hypercare).• Monitoreo de operación dual (flujo anterior y nuevo en paralelo).Equipo de Desarrollo / SuperusuariosFase 4: Consolidación🛑 Hard Stop (Apagón)• Cierre total, retiro de papelería o bloqueo de accesos al sistema anterior.• Recolección de métricas de adopción y retroalimentación de usabilidad.• Reconocimiento de equipos destacados y pase a mantenimiento.Project Manager / Gerentes de Área
+
+| Fase Temporal | Hito Crítico (Milestone) | Entregables y Acciones Clave | Responsable Principal |
+| :--- | :--- | :--- | :--- |
+| **Fase 1: Preparación** | 🎯 **Kick-off Directivo** | • Definición de metas de negocio y KPIs de adopción.<br>• Identificación y reclutamiento de Champions (Líderes de opinión).<br>• Campaña de comunicación interna. | Alta Dirección / Project Manager |
+| **Fase 2: Capacitación** | 🎮 **Apertura de Sandbox** | • Distribución de infografías y materiales interactivos ágiles.<br>• Capacitación especializada al equipo de Superusuarios.<br>• Talleres prácticos y simulacros en ambiente seguro. | Líder de TI / Recursos Humanos |
+| **Fase 3: Transición** | 🚀 **Lanzamiento (Go-Live)** | • Despliegue técnico definitivo a producción.<br>• Despliegue de soporte técnico y humano en piso (Hypercare).<br>• Monitoreo de operación dual (flujo anterior y nuevo en paralelo). | Equipo de Desarrollo / Superusuarios |
+| **Fase 4: Consolidación**| 🛑 **Hard Stop (Apagón)** | • Cierre total, retiro de papelería o bloqueo de accesos al sistema anterior.<br>• Recolección de métricas de adopción y retroalimentación de usabilidad.<br>• Reconocimiento de equipos destacados y pase a mantenimiento. | Project Manager / Gerentes de Área |
+
+---
 
 ## 7. Gestión de Riesgos y Matriz de Contingencia
-Riesgo Humano / TécnicoProbabilidadImpactoEstrategia de Mitigación / ContingenciaBoicot Pasivo (Negativa implícita a usar la app)MediaAltoReforzar las sesiones WIIFM con mandos medios. Identificar al líder informal del boicot e integrarlo al comité de pruebas para darle voz y voto.Brecha Tecnológica Severa (Ansiedad Digital)AltaMedioImplementar sesiones personalizadas de mentoría uno a uno con los Superusuarios y simplificar la interfaz gráfica (GUI).Saturación o Bugs Críticos en el Día del Go-LiveBajaCríticoPlan de Rollback: Mantener la infraestructura del sistema anterior activa pero en modo de solo lectura durante las primeras 72 horas.Rechazo a Políticas BYOD (Hardware Personal)BajaAltoEstablecer estaciones o terminales físicas fijas propiedad de la empresa para eliminar la obligatoriedad del uso de dispositivos personales.
+
+| Riesgo Humano / Técnico | Probabilidad | Impacto | Estrategia de Mitigación / Contingencia |
+| :--- | :--- | :--- | :--- |
+| **Boicot Pasivo (Negativa implícita a usar la app)** | Media | Alto | Reforzar las sesiones WIIFM con mandos medios. Identificar al líder informal del boicot e integrarlo al comité de pruebas para darle voz y voto. |
+| **Brecha Tecnológica Severa (Ansiedad Digital)** | Alta | Medio | Implementar sesiones personalizadas de mentoría uno a uno con los Superusuarios y simplificar la interfaz gráfica (GUI). |
+| **Saturación o Bugs Críticos en el Día del Go-Live** | Baja | Crítico | **Plan de Rollback:** Mantener la infraestructura del sistema anterior activa pero en modo de solo lectura durante las primeras 72 horas. |
+| **Rechazo a Políticas BYOD (Hardware Personal)** | Baja | Alto | Establecer estaciones o terminales físicas fijas propiedad de la empresa para eliminar la obligatoriedad del uso de dispositivos personales. |
+
+---
 
 ## 8. Indicadores Clave de Rendimiento (KPIs)
-Para cuantificar la efectividad de la transición, se medirán los siguientes indicadores numéricos:Tasa de Adopción de la Plataforma: (Usuarios activos en el nuevo sistema / Total de usuarios capacitados) x 100 (Meta: > 95% al finalizar la Fase 3).Eficiencia Operativa: Reducción porcentual del tiempo de ejecución operativa en comparación con el método analógico anterior (Meta: Reducción $\ge 50\%$).Índice de Errores en Producción: Número de registros erróneos o tickets de soporte levantados por confusión de interfaz en piso (Meta: $< 5\%$ semanal).Tasa de Regresión: Intentos registrados de evadir la plataforma oficial para usar métodos tradicionales (Meta: 0% post Hard Stop).
+
+Para cuantificar la efectividad de la transición, se medirán los siguientes indicadores numéricos:
+
+1. **Tasa de Adopción de la Plataforma:** (Usuarios activos en el nuevo sistema / Total de usuarios capacitados) x 100 (Meta: > 95% al finalizar la Fase 3).
+2. **Eficiencia Operativa:** Reducción porcentual del tiempo de ejecución operativa en comparación con el método analógico anterior (Meta: Reducción >= 50%).
+3. **Índice de Errores en Producción:** Número de registros erróneos o tickets de soporte levantados por confusión de interfaz en piso (Meta: < 5% semanal).
+4. **Tasa de Regresión:** Intentos registrados de evadir la plataforma oficial para usar métodos tradicionales (Meta: 0% post Hard Stop).
+
+---
 
 ## 9. Conclusión de la Metodología
+
 Una implementación tecnológica exitosa no concluye cuando el código pasa a producción. La verdadera estabilidad del software radica en la apropiación que los usuarios hagan de él. Al estructurar la transición humana con fases lógicas (ADKAR), herramientas ágiles de aprendizaje y puntos claros de corte (Hard Stop), la organización transforma un riesgo cultural en un caso de éxito operativo.
