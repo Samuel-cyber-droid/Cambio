@@ -85,10 +85,10 @@ gantt
 
 | Fase Temporal | Hito Crítico (Milestone) | Entregables y Acciones Clave | Responsable Principal |
 | :--- | :--- | :--- | :--- |
-| **Fase 1: Preparación** | 🎯 **Kick-off Directivo** | • Definición de metas de negocio y KPIs de adopción.<br>• Identificación y reclutamiento de Champions (Líderes de opinión).<br>• Campaña de comunicación interna. | Alta Dirección / Project Manager |
-| **Fase 2: Capacitación** | 🎮 **Apertura de Sandbox** | • Distribución de infografías y materiales interactivos ágiles.<br>• Capacitación especializada al equipo de Superusuarios.<br>• Talleres prácticos y simulacros en ambiente seguro. | Líder de TI / Recursos Humanos |
-| **Fase 3: Transición** | 🚀 **Lanzamiento (Go-Live)** | • Despliegue técnico definitivo a producción.<br>• Despliegue de soporte técnico y humano en piso (Hypercare).<br>• Monitoreo de operación dual (flujo anterior y nuevo en paralelo). | Equipo de Desarrollo / Superusuarios |
-| **Fase 4: Consolidación**| 🛑 **Hard Stop (Apagón)** | • Cierre total, retiro de papelería o bloqueo de accesos al sistema anterior.<br>• Recolección de métricas de adopción y retroalimentación de usabilidad.<br>• Reconocimiento de equipos destacados y pase a mantenimiento. | Project Manager / Gerentes de Área |
+| **Fase 1: Preparación** |  **Kick-off Directivo** | • Definición de metas de negocio y KPIs de adopción.<br>• Identificación y reclutamiento de Champions (Líderes de opinión).<br>• Campaña de comunicación interna. | Alta Dirección / Project Manager |
+| **Fase 2: Capacitación** |  **Apertura de Sandbox** | • Distribución de infografías y materiales interactivos ágiles.<br>• Capacitación especializada al equipo de Superusuarios.<br>• Talleres prácticos y simulacros en ambiente seguro. | Líder de TI / Recursos Humanos |
+| **Fase 3: Transición** |  **Lanzamiento (Go-Live)** | • Despliegue técnico definitivo a producción.<br>• Despliegue de soporte técnico y humano en piso (Hypercare).<br>• Monitoreo de operación dual (flujo anterior y nuevo en paralelo). | Equipo de Desarrollo / Superusuarios |
+| **Fase 4: Consolidación**|  **Hard Stop (Apagón)** | • Cierre total, retiro de papelería o bloqueo de accesos al sistema anterior.<br>• Recolección de métricas de adopción y retroalimentación de usabilidad.<br>• Reconocimiento de equipos destacados y pase a mantenimiento. | Project Manager / Gerentes de Área |
 
 ---
 
