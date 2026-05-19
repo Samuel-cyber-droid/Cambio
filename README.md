@@ -7,6 +7,7 @@ Este plan tiene como objetivo facilitar la adopción de nuevas tecnologías dent
 
 ---
 
+
 ## 1. Introducción 
 Este documento constituye el **Plan General de Gestión del Cambio** diseñado para acompañar la implementación de nuevas plataformas tecnológicas, sistemas de software o reingenierías de procesos dentro de la organización. 
 
@@ -124,6 +125,7 @@ Para cuantificar la efectividad de la transición, se medirán los siguientes in
 4. **Tasa de Regresión:** Intentos registrados de evadir la plataforma oficial para usar métodos tradicionales (Meta: 0% post Hard Stop).
 
 ---
+
 
 ## 9. Conclusión de la Metodología
 
